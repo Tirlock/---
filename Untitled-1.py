@@ -51,7 +51,7 @@ ball = GameSprite('ball.png', 200, 200, 4, 50, 50)
 font.init()
 font = font.Font(None, 35)
 lose1 = font.render('PLAYER 1 LOSE!', True, (180, 0, 0 ))
-lose2 = font.render('PLAYER 1 LOSE!', True, (180, 0, 0 ))
+lose2 = font.render('PLAYER 2 LOSE!', True, (180, 0, 0 ))
 
 
 
